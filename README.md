@@ -472,7 +472,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -480,7 +480,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 ### Core Technologies
 - **[YOLOv3](https://pjreddie.com/darknet/yolo/)** - Joseph Redmon & Ali Farhadi
@@ -500,26 +500,24 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📧 Contact & Support
+##  Contact & Support
 
-- **Issues:** [GitHub Issues](https://github.com/yourusername/voice-scene-assistant/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/voice-scene-assistant/discussions)
-- **Email:** your.email@example.com
+- **Email:** pardisha@unc.edu
 
 ---
 
-## ⭐ Show Your Support
+##  Show Your Support
 
 If you find this project useful, please consider:
-- ⭐ Starring the repository
-- 🐛 Reporting bugs
-- 💡 Suggesting new features
-- 🔀 Submitting pull requests
-- 📢 Sharing with others
+-  Starring the repository
+-  Reporting bugs
+-  Suggesting new features
+- Submitting pull requests
+-  Sharing with others
 
 ---
 
-## 📈 Project Stats
+##  Project Stats
 
 ```
 Total Lines of Code: 1,500+
@@ -527,15 +525,11 @@ Classes: 7
 Functions: 40+
 Voice Commands: 20+
 Detected Objects: 80+
-Development Time: [Your time]
+Development Time:3 weeks
 ```
 
 ---
 
 <div align="center">
-
-**Built with ❤️ for the Computer Vision Community**
-
-[Report Bug](https://github.com/yourusername/voice-scene-assistant/issues) · [Request Feature](https://github.com/yourusername/voice-scene-assistant/issues) · [Documentation](https://github.com/yourusername/voice-scene-assistant/wiki)
 
 </div>
