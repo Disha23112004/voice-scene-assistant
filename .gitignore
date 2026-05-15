@@ -40,6 +40,10 @@ custom_objects.pkl
 *.mp3
 *.wav
 
+# YOLO model files (too large for GitHub)
+backend/yolov3.weights
+backend/*.weights
+
 # OS
 .DS_Store
 Thumbs.db
@@ -50,3 +54,15 @@ Thumbs.db
 # Temporary files
 *.tmp
 temp/
+
+# Node
+node_modules/
+mobile/node_modules/
+
+# Expo
+mobile/.expo/
+mobile/dist/
+mobile/.expo-shared/
+
+# Railway / Docker
+backend/__pycache__/

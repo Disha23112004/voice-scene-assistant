@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "Voice Scene Assistant",
+    "slug": "voice-scene-assistant",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0f0f0f"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourname.voicescene",
+      "infoPlist": {
+        "NSCameraUsageDescription": "Used to detect and describe objects in your environment.",
+        "NSMicrophoneUsageDescription": "Used to listen for voice commands.",
+        "NSSpeechRecognitionUsageDescription": "Used to transcribe your voice commands."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0f0f0f"
+      },
+      "package": "com.yourname.voicescene",
+      "permissions": [
+        "CAMERA",
+        "RECORD_AUDIO",
+        "INTERNET"
+      ]
+    },
+    "plugins": [
+      ["expo-camera",     { "cameraPermission": "Allow Voice Scene to use the camera." }],
+      ["expo-av",         { "microphonePermission": "Allow Voice Scene to use the microphone." }]
+    ],
+    "extra": {
+      "eas": { "projectId": "your-eas-project-id" }
+    }
+  }
+}
